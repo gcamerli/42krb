@@ -1,8 +1,7 @@
 #!/bin/bash
 # ./user.sh
 
-# Setup of the user ssh config to access to the vogsphere
-
+# Ssh user setup: to access to 42's git server (vogsphere)
 mkdir -p ~/.ssh &&
 cat >> ~/.ssh/config << EOF
 # 42 vogsphere
