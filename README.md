@@ -4,14 +4,16 @@
 
 ### **Description**
 
-**42krb** is a shell script to setup **kerberos** to works properly also outside the clusters.
+![kerberos](img/kerberos.jpg)
+
+**42krb** is a shell script to properly setup **kerberos** to let it work also outside the **42** clusters.
 
 ### **Usage**
 
 To execute the **script** just run:
 
 ```bash
-$ sh run.sh
+$ sh script/run.sh
 ```
 
 ### **Kerberos**
@@ -23,6 +25,10 @@ To create a **kerberos** ticket using your **login**:
 To destroy your ticket:
 
 `kdestroy`
+
+For a full documentation check:
+
++ [MIT documentation](https://web.mit.edu/kerberos/)
 
 ### **Note**
 
