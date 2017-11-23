@@ -10,10 +10,10 @@
 
 ### **Usage**
 
-To execute the **script** just run:
+To execute the **script** just change directory and run:
 
 ```bash
-$ sh script/run.sh
+$ sh run.sh
 ```
 
 ### **Kerberos**
