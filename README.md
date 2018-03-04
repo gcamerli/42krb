@@ -38,7 +38,6 @@ It's possible to use it just connecting to **42** wifi.
 
 + [@colundrum](https://github.com/colundrum)
 
-### **GPL License**
+### **License**
 
-
-This work is licensed under the terms of **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl.html)**.
+This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
